@@ -10,7 +10,7 @@ goto login
 
 :login
 cls
-set user=salma
+set user=Rafy
 set pass=123
 echo masukkan account anda
 set /p u2=username :
